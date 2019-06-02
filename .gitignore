@@ -11,3 +11,4 @@
 *.sw*
 *.bat
 *.iml
+target/*
